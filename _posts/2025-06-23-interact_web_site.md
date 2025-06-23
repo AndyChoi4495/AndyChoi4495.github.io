@@ -24,4 +24,4 @@ categories: [tech, Javascript]
       - Simple and clean layout
       - Modern CSS/JS usage
       
-      **Url:  "https://interaction-design-website.netlify.app"**
+      **Url:  <https://interaction-design-website.netlify.app>**
