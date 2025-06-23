@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yunseok Choi"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Dedicated and technically advanced individual with a strong passion for conducting thorough testing and debugging of software components to identify and resolve issues, along with ensuring optimal functionality and performance before deployment."
-  location         : "Toronto, ON, Canada"
-  email            : "yun4495@gmail.com"
+  name             : "Yunseok Choi"  
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"  
+  bio              : "Dedicated and technically advanced individual with a strong passion for conducting thorough testing and debugging of software components to identify and resolve issues, along with ensuring optimal functionality and performance before deployment."  
+  location         : "Toronto, ON, Canada"  
+  email            : "yun4495@gmail.com"  
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -127,7 +127,7 @@ author:
       # url: "https://your-website.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-       url: "https://www.linkedin.com/in/yunseok-choi-267635296/"
+      url: "https://www.linkedin.com/in/yunseok-choi-267635296"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
