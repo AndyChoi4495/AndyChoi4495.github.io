@@ -9,12 +9,12 @@ categories: [tech, Javascript]
 A front-end project exploring interactive design principles through modern HTML, CSS, and JavaScript practices. Developed for educational and demonstration purposes.
 
 ## 📁 Project Structure
-Interaction_design_website/
-├── assets/ # Images, fonts, and icons
-├── css/ # Stylesheets
-├── js/ # JavaScript files
-├── index.html # Main landing page
-└── README.md # Project documentation
+Interaction_design_website/  
+├── assets/ # Images, fonts, and icons  
+├── css/ # Stylesheets  
+├── js/ # JavaScript files  
+├── index.html # Main landing page  
+└── README.md # Project documentation  
 
 ## ✨ Features
 
