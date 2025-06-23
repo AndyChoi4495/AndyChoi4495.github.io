@@ -24,4 +24,4 @@ Interaction_design_website/
 - Simple and clean layout
 - Modern CSS/JS usage
 
-**link -https://interaction-design-website.netlify.app/**
+**link - https://interaction-design-website.netlify.app/**
