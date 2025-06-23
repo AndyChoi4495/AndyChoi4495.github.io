@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Yunseok Choi"  
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"  
-  bio              : "Dedicated and technically advanced individual with a strong passion for conducting thorough testing and debugging of software components to identify and resolve issues, along with ensuring optimal functionality and performance before deployment."  
+  bio              : "Full stack developer(Javascript, Python, Java)"
   location         : "Toronto, ON, Canada"  
   email            : "yun4495@gmail.com"  
   links:
