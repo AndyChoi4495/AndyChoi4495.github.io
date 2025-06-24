@@ -29,7 +29,7 @@ docs:
       - title: "test3"
         url: /docs/test3/
         
-   - title: Study
+  - title: Study
     children:
       - title: "Java"
         url: /docs/StudyJava/
