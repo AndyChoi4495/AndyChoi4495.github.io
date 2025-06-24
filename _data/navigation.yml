@@ -11,7 +11,7 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-  title: Projects
+  - title: Projects
     children:
       - title: "JavaScript"
         url: /docs/JavaScript/
@@ -20,7 +20,7 @@ main:
       - title: "Java"
         url: /docs/Java/
         
-  title: Algorithm
+  - title: Algorithm
     children:
       - title: "test1"
         url: /docs/test1/
@@ -29,7 +29,7 @@ main:
       - title: "test3"
         url: /docs/test3/
         
-   title: Study
+   - title: Study
     children:
       - title: "Java"
         url: /docs/StudyJava/
