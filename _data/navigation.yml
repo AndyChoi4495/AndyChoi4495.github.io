@@ -1,5 +1,5 @@
 # main links
-docs:
+
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
@@ -10,7 +10,7 @@ docs:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-
+docs:
   - title: Projects
     children:
       - title: "JavaScript"
