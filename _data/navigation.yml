@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  #- title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -10,3 +10,21 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+  title: Projects
+    children:
+      - title: "JavaScript"
+        url: /docs/JavaScript/
+      - title: "Python"
+        url: /docs/Python/
+      - title: "Java"
+        url: /docs/Java/
+        
+  title: Algorithm
+    children:
+      - title: "test1"
+        url: /docs/test1/
+      - title: "test2"
+        url: /docs/test2/
+      - title: "test3"
+        url: /docs/test3/
