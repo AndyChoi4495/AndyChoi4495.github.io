@@ -28,3 +28,10 @@ main:
         url: /docs/test2/
       - title: "test3"
         url: /docs/test3/
+        
+   title: Study
+    children:
+      - title: "Java"
+        url: /docs/StudyJava/
+     
+  
